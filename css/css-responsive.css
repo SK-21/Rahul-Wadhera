@@ -23,7 +23,7 @@
 .nav-one {
     width: 100%;
 }
-	#heder-one .nav-item {
+	#header .nav-item {
     margin-left: 0px;
     margin-right: 28px;
 }
@@ -108,7 +108,7 @@
 		.banner-black-details {
     padding-top: 255px;
 }
-	#heder-one .nav-item {
+	#header .nav-item {
     margin-left: 20px;
 }
 	.filter-btn-isotop ul li {
@@ -166,7 +166,7 @@
 .content-box h2 {
     font-size: 33px;
 }
-	#awards {
+	#businesses {
     padding: 100px 0;
 }
 	#testimonial {
@@ -420,7 +420,7 @@ font-size: 50px;
 	.timeline-right-icon:before {
     top: -74px;
 }
-	#awards {
+	#businesses {
     padding: 80px 0;
 }
 .laPtop-img {
@@ -776,7 +776,7 @@ font-size: 50px;
 	.timeline-right-icon {
     top: -286px;
 }
-	#awards {
+	#businesses {
     padding: 80px 0;
 }
 .laPtop-img {
@@ -1244,7 +1244,7 @@ font-size: 50px;
 	.timeline-right-icon:before {
     top: -2px;
 }
-	#awards {
+	#businesses {
     padding: 80px 0;
 }
 .laPtop-img {
@@ -1756,7 +1756,7 @@ width: 9%;
 	.timeline-right-icon:before {
     top: -74px;
 }
-	#awards {
+	#businesses {
     padding: 80px 0;
 }
 .laPtop-img {
@@ -1846,7 +1846,7 @@ display: none;
 	.award-details {
     margin-top: 55px;
 }
-	#awards .owl-nav {
+	#businesses .owl-nav {
     bottom: -89px;
 }
 	.top-heading:after {
@@ -2390,7 +2390,7 @@ line-height: 25px;
 	.timeline-right-icon:before {
     top: -74px;
 }
-	#awards {
+	#businesses {
     padding: 80px 0;
 }
 .laPtop-img {
@@ -2480,7 +2480,7 @@ display: none;
 	.award-details {
     margin-top: 55px;
 }
-	#awards .owl-nav {
+	#businesses .owl-nav {
     bottom: -89px;
 }
 
