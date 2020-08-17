@@ -192,7 +192,7 @@ a:link:focus {
     4. Header
  * =========================*/
 
-#heder-one .nav-link {
+#header .nav-link {
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -201,7 +201,7 @@ a:link:focus {
   padding: 7px 0;
 }
 
-#heder-one .nav-link:hover {
+#header .nav-link:hover {
   color: rgb(180, 179, 179);
 }
 .nav-link i {
@@ -209,7 +209,7 @@ a:link:focus {
   margin-left: 5px;
   display: none;
 }
-#heder-one .nav-link:after {
+#header .nav-link:after {
   content: "";
   position: absolute;
   height: 2px;
@@ -222,11 +222,11 @@ a:link:focus {
   transition: all 0.3s;
 }
 
-#heder-one .nav-link:hover:after {
+#header .nav-link:hover:after {
   width: 100%;
 }
 
-#heder-one .navbar .nav-item .active {
+#header .navbar .nav-item .active {
   color: rgb(180, 179, 179);
   -webkit-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -234,7 +234,7 @@ a:link:focus {
   overflow: hidden;
 }
 
-#heder-one .nav-item {
+#header .nav-item {
   margin-left: 40px;
 }
 
@@ -341,7 +341,8 @@ a:link:focus {
   margin-top: 125px;
 }
 .portfoilo-wrapper{
-  margin-top: 125px;
+  margin-top: 75px;
+  
 }
 .content-box p {
   color: #ffcc74;
@@ -375,14 +376,22 @@ a:link:focus {
     7. Awards 
  * =========================-*/
 
-#awards {
+ #awards {
   padding: 150px 0;
   border-top: 1px solid #ffffff1c;
   position: relative;
   background: #000;
 }
 
-#awards .content-box p:after {
+
+#businesses {
+  padding: 150px 0;
+  border-top: 1px solid #ffffff1c;
+  position: relative;
+  background: #000;
+}
+
+#businesses .content-box p:after {
   left: 70px;
 }
 
