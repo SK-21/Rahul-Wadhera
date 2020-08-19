@@ -77,7 +77,7 @@ a:link:focus {
   transition: all 0.3s;
 }
 
-#banner-black .btn-1 {
+#home .btn-1 {
   -webkit-box-shadow: 0px 0px 18px -5px   rgb(180, 179, 179);
   box-shadow: 0px 0px 18px -5px rgb(180, 179, 179);
 }
@@ -128,7 +128,7 @@ a:link:focus {
 
 .btn-2:hover {
   background: rgb(180, 179, 179);
-  color: #000;
+  color: #000 ;
   -webkit-box-shadow: 0px 0px 18px -5px rgb(180, 179, 179);
   box-shadow: 0px 0px 18px -5px rgb(180, 179, 179);
 }
@@ -181,7 +181,7 @@ a:link:focus {
   margin-left: 25px;
 }
 
-#banner-black {
+#home {
   position: relative;
 }
 .error-btn:hover {
@@ -270,7 +270,7 @@ a:link:focus {
     5. Banner 
  * =========================*/
 
-#banner-black {
+#home {
   background-image: url(../img/banner.jpg);
   background-size: cover;
   height: 100vh;
@@ -279,7 +279,7 @@ a:link:focus {
 }
 
 @media (max-width:600px){
-  #banner-black {
+  #home {
     background-position:center;
   }
   
