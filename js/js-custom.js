@@ -1,22 +1,22 @@
 /*===========================================
 			BACKGROUND MOVE
 =============================================*/
-$("#banner-black").on("mousemove", function(e) {
+$("#home").on("mousemove", function(e) {
   parallaxIt(e, ".shap-1", -50);
 
   parallaxIt(e, "", -10);
 });
-$("#banner-black").on("mousemove", function(e) {
+$("#home").on("mousemove", function(e) {
   parallaxIt(e, ".shap-2", -100);
 
   parallaxIt(e, "", -10);
 });
-$("#banner-black").on("mousemove", function(e) {
+$("#home").on("mousemove", function(e) {
   parallaxIt(e, ".shap-3", -150);
   parallaxIt(e, "", -10);
 });
 function parallaxIt(e, target, movement) {
-  var $this = $("#banner-black");
+  var $this = $("#home");
   var relX = e.pageY - $this.offset().left;
   var relY = e.pageY - $this.offset().top;
 
@@ -338,7 +338,7 @@ $(function() {
     }
   });
 });
-    $(".nav-item .nav-link").on("click",function(){$(".navbar-collapse").removeClass("show")}),
+$(".nav-item .nav-link").on("click",function(){$(".navbar-collapse").removeClass("show")}),
 /*==================================================--------
  *  search
  * ==================================================-- */
